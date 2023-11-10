@@ -1,7 +1,7 @@
 import React from 'react';
 import { Icon } from '@iconify/react';
 
-import { Box, Grid, Link, Stack, Container, Typography, IconButton } from '@mui/material';
+import { Box, Grid, Link, Stack, Container, Typography } from '@mui/material';
 
 import { useResponsive } from 'src/hooks/use-responsive';
 
@@ -23,7 +23,7 @@ const Footer = () => {
     },
     {
       id: 4,
-      link: 'https://api.whatsapp.com/send/?phone=9694501023&text&type=phone_number&app_absent=0',
+      link: 'https://api.whatsapp.com/send/?phone=919694501023&text&type=phone_number&app_absent=0',
       icon: 'ri:whatsapp-fill',
       label: 'WhatsApp',
     },
@@ -87,20 +87,23 @@ const Footer = () => {
             >
               {socialLinks.map((s) => (
                 <Stack
+                  key={s.id}
                   direction="row"
                   alignItems="center"
                   justifyContent="flex-start"
                   spacing={2}
                   width={125}
+                  component="a"
+                  href={s.link}
+                  target="__blank"
+                  sx={{ textDecoration: 'none' }}
                 >
-                  <IconButton href={s.link} key={s.id}>
-                    <Icon
-                      icon={s.icon}
-                      width={30}
-                      color="black"
-                      style={{ backgroundColor: 'white', padding: 5, borderRadius: 50 }}
-                    />
-                  </IconButton>
+                  <Icon
+                    icon={s.icon}
+                    width={30}
+                    color="black"
+                    style={{ backgroundColor: 'white', padding: 5, borderRadius: 50 }}
+                  />
                   {lgUp && (
                     <Typography fontFamily="Poppins" fontWeight={500} color="white">
                       {s.label}

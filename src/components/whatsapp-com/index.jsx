@@ -3,7 +3,7 @@ import { Icon } from '@iconify/react';
 
 const WhatsAppCom = () => (
   <a
-    href="https://api.whatsapp.com/send/?phone=9694501023&text&type=phone_number&app_absent=0"
+    href="https://api.whatsapp.com/send/?phone=919694501023&text&type=phone_number&app_absent=0"
     target="__blank"
   >
     <div
