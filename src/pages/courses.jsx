@@ -117,7 +117,7 @@ const CourseIndex = () => {
       <Box
         sx={{
           width: '100%',
-          height: 120,
+          height: 90,
           bgcolor: '#E9204F',
           display: 'flex',
           justifyContent: 'flex-end',
