@@ -21,8 +21,8 @@ const CourseCard = ({ title, image, price, link }) => (
   <Card
     sx={{
       width: '100%',
-      height: 350,
-      p: 3,
+      height: 410,
+      p: 1,
       display: 'flex',
       flexDirection: 'column',
     }}
