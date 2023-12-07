@@ -26,7 +26,7 @@ const CourseCard = ({ title, image, price, link }) => (
       display: 'flex',
       flexDirection: 'column',
     }}
-    elevation={2}
+    elevation={5}
   >
     <Stack direction="column">
       <CardMedia sx={{ height: 230, borderRadius: 1 }} image={image} title={title} />
