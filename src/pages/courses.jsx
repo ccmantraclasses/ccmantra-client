@@ -104,7 +104,7 @@ const CourseIndex = () => {
       link: 'https://yuafj.courses.store/353312',
     },
     {
-      id: 5,
+      id: 6,
       title: 'Macro Economics & Indian Economic Development',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA6.png?alt=media&token=a05ccd9e-2de5-4fed-af34-3c0b61d57e83',
