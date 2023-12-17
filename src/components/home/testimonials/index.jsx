@@ -36,6 +36,7 @@ const Testimonials = () => {
     { id: 5, description: 'This is the first time I have attended a class in this format & wonderfull & effective it be.', user: 'Pratik Rajoriya' },
     { id: 6, description: "It is perfect in all aspects.", user: 'Surbhi' },
     { id: 7, description: "It is a nice institute.", user: 'Gourang Atariya' },
+    { id: 8, description: "It is a nice institute.", user: 'Vanshika Atariya' },
   ];
 
   const renderItems = testimonials.map((t) => <RenderTestimonial {...t} />);
