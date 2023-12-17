@@ -26,7 +26,7 @@ const HomeCarousel = () => {
     {
       id: 3,
       label: '',
-      img: "https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2Fimage3.jpg?alt=media&token=2d2be739-5760-47b0-af0d-1759bff6fafc"},
+      img: '/assets/carousel/image3.jpg'},
     {
       id: 4,
       label: '',
