@@ -84,7 +84,7 @@ const CourseIndex = () => {
       title: 'Junior Accountant (RSMSSB) Online Test Series',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FMCQ.png?alt=media&token=62a71514-33c1-4722-acaf-cc164eaa4ad4',
-      price: '500',
+      price: '50',
       link: 'https://yuafj.courses.store/365904',
     },
     {
