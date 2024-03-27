@@ -67,7 +67,7 @@ const CourseIndex = () => {
       id: 1,
       title: 'Class XII(CBSE)- Accounts+Eco.+B.s.(2024-25)',
       image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FCombined.png?alt=media&token=a2c02e1b-5c3a-454c-8574-1c0c21c00b44',
+        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2F%5BOriginal%20size%5D%20AADHUNIK%20EMPORIUM.png?alt=media&token=953f1238-8516-467b-823f-32da2737af85',
       price: '4000',
       link: 'https://yuafj.courses.store/478117?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
     },
