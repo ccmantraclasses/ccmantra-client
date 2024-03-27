@@ -73,27 +73,27 @@ const CourseIndex = () => {
     },
     {
       id: 2,
-      title: 'First Grade (RPSC) - Commerce School Lecturer',
+      title: 'Class XII(CBSE)-Business Studies(2024-25)',
       image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA1.png?alt=media&token=6a810aef-f1c0-4f5c-b296-df8ab93df803',
-      price: '999',
-      link: 'https://yuafj.courses.store/131449',
+        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FCC%20Mantra.png?alt=media&token=90f802f0-c741-4ad8-851d-c3e945539cbe',
+      price: '1500',
+      link: 'https://yuafj.courses.store/478115?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
     },
     {
       id: 3,
-      title: 'First Grade (RPSC) - Commerce School Lecturer',
+      title: 'Class XII(CBSE)-Economics(2024-25)',
       image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA1.png?alt=media&token=6a810aef-f1c0-4f5c-b296-df8ab93df803',
-      price: '999',
-      link: 'https://yuafj.courses.store/131449',
+        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FCC%20Mantra%20(1).png?alt=media&token=d86f1d82-38b7-406b-9dab-93daab81fd53',
+      price: '1500',
+      link: 'https://yuafj.courses.store/478114?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
     },
     {
       id: 4,
-      title: 'First Grade (RPSC) - Commerce School Lecturer',
+      title: 'Class XII(CBSE)-Accounts(2024-25)',
       image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA1.png?alt=media&token=6a810aef-f1c0-4f5c-b296-df8ab93df803',
-      price: '999',
-      link: 'https://yuafj.courses.store/131449',
+        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FCC%20Mantra%20(2).png?alt=media&token=fa3ea8e7-dc72-439f-84d1-aaadca384263',
+      price: '1500',
+      link: 'https://yuafj.courses.store/478111?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
     },
     {
       id: 5,
