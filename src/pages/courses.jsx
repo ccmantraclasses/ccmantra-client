@@ -65,6 +65,14 @@ const CourseIndex = () => {
   const courses = [
     {
       id: 1,
+      title: 'Class XII(CBSE)- Accounts+Eco.+B.s.(2024-25)',
+      image:
+        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FCombined.png?alt=media&token=a2c02e1b-5c3a-454c-8574-1c0c21c00b44',
+      price: '4000',
+      link: 'https://yuafj.courses.store/478117?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
+    },
+    {
+      id: 2,
       title: 'First Grade (RPSC) - Commerce School Lecturer',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA1.png?alt=media&token=6a810aef-f1c0-4f5c-b296-df8ab93df803',
@@ -72,7 +80,31 @@ const CourseIndex = () => {
       link: 'https://yuafj.courses.store/131449',
     },
     {
-      id: 2,
+      id: 3,
+      title: 'First Grade (RPSC) - Commerce School Lecturer',
+      image:
+        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA1.png?alt=media&token=6a810aef-f1c0-4f5c-b296-df8ab93df803',
+      price: '999',
+      link: 'https://yuafj.courses.store/131449',
+    },
+    {
+      id: 4,
+      title: 'First Grade (RPSC) - Commerce School Lecturer',
+      image:
+        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA1.png?alt=media&token=6a810aef-f1c0-4f5c-b296-df8ab93df803',
+      price: '999',
+      link: 'https://yuafj.courses.store/131449',
+    },
+    {
+      id: 5,
+      title: 'First Grade (RPSC) - Commerce School Lecturer',
+      image:
+        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA1.png?alt=media&token=6a810aef-f1c0-4f5c-b296-df8ab93df803',
+      price: '999',
+      link: 'https://yuafj.courses.store/131449',
+    },
+    {
+      id: 6,
       title: 'Junior Accountant (Paper-2) (RSMSSB)',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA2.png?alt=media&token=204d94fe-6151-4daf-af62-889319f5975f',
@@ -80,7 +112,7 @@ const CourseIndex = () => {
       link: 'https://yuafj.courses.store/398924',
     },
     {
-      id: 3,
+      id: 7,
       title: 'Junior Accountant (RSMSSB) Online Test Series',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FDOWNLOAD%20NOW%20CC%20MANTRA.jpg?alt=media&token=a143f0b6-affa-4915-8a97-85c8db724fec',
@@ -88,7 +120,7 @@ const CourseIndex = () => {
       link: 'https://yuafj.courses.store/365904',
     },
     {
-      id: 4,
+      id: 8,
       title: 'Rajasthan G.K. Online Test Series',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA4.png?alt=media&token=b3491995-34e6-4feb-913f-e6ccc43571c1',
@@ -96,7 +128,7 @@ const CourseIndex = () => {
       link: 'https://yuafj.courses.store/364525',
     },
     {
-      id: 5,
+      id: 9,
       title: 'English Grammer Online Test Series',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA5.png?alt=media&token=f7f5dea4-a686-4909-bb55-d45ef262503a',
@@ -104,7 +136,7 @@ const CourseIndex = () => {
       link: 'https://yuafj.courses.store/353312',
     },
     {
-      id: 6,
+      id: 10,
       title: 'Macro Economics & Indian Economic Development',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA6.png?alt=media&token=a05ccd9e-2de5-4fed-af34-3c0b61d57e83',
