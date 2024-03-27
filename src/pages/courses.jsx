@@ -99,8 +99,8 @@ const CourseIndex = () => {
       id: 5,
       title: 'English Grammer Online Test Series',
       image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA5.png?alt=media&token=8a8a4497-b51c-466c-9de5-3ed1a7d3818b',
-      price: '99',
+        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA5.png?alt=media&token=f7f5dea4-a686-4909-bb55-d45ef262503a',
+      price: '50',
       link: 'https://yuafj.courses.store/353312',
     },
     {
