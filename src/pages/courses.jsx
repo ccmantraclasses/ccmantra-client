@@ -97,7 +97,7 @@ const CourseIndex = () => {
     },
     {
       id: 5,
-      title: 'Hindi Grammer Online Test Series(Full Course)',
+      title: 'Hindi Grammer Full Course (Online Test Series)',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA7.png?alt=media&token=b348b36c-64e6-47cb-9e70-e11f175a86da',
       price: '25',
@@ -107,12 +107,20 @@ const CourseIndex = () => {
       id: 6,
       title: 'First Grade (RPSC) - Commerce School Lecturer',
       image:
+      'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA8.png?alt=media&token=5a7a3416-1d4f-4442-84e9-0df1c59ae0b6',
+      price: '25',
+      link: 'https://yuafj.courses.store/476134?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
+    },
+    {
+      id: 7,
+      title: 'First Grade (RPSC) - Commerce School Lecturer',
+      image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA1.png?alt=media&token=6a810aef-f1c0-4f5c-b296-df8ab93df803',
       price: '999',
       link: 'https://yuafj.courses.store/131449',
     },
     {
-      id: 7,
+      id: 8,
       title: 'Junior Accountant (Paper-2) (RSMSSB)',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA2.png?alt=media&token=204d94fe-6151-4daf-af62-889319f5975f',
@@ -120,7 +128,7 @@ const CourseIndex = () => {
       link: 'https://yuafj.courses.store/398924',
     },
     {
-      id: 8,
+      id: 9,
       title: 'Junior Accountant (RSMSSB) Online Test Series',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FDOWNLOAD%20NOW%20CC%20MANTRA.jpg?alt=media&token=a143f0b6-affa-4915-8a97-85c8db724fec',
@@ -128,7 +136,7 @@ const CourseIndex = () => {
       link: 'https://yuafj.courses.store/365904',
     },
     {
-      id: 9,
+      id: 10,
       title: 'Rajasthan G.K. Online Test Series',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA4.png?alt=media&token=b3491995-34e6-4feb-913f-e6ccc43571c1',
@@ -136,7 +144,7 @@ const CourseIndex = () => {
       link: 'https://yuafj.courses.store/364525',
     },
     {
-      id: 10,
+      id: 11,
       title: 'English Grammer Online Test Series',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA5.png?alt=media&token=f7f5dea4-a686-4909-bb55-d45ef262503a',
@@ -144,7 +152,7 @@ const CourseIndex = () => {
       link: 'https://yuafj.courses.store/353312',
     },
     {
-      id: 11,
+      id: 12,
       title: 'Macro Economics & Indian Economic Development',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA6.png?alt=media&token=a05ccd9e-2de5-4fed-af34-3c0b61d57e83',
