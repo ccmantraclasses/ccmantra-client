@@ -26,7 +26,7 @@ const HomeCarousel = () => {
     {
       id: 3,
       label: '',
-      img: '/assets/carousel/image6.jpg'},
+      img: '/assets/carousel/image3.jpg'},
     {
       id: 4,
       label: '',

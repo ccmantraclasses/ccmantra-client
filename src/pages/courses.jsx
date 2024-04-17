@@ -105,7 +105,7 @@ const CourseIndex = () => {
     },
     {
       id: 6,
-      title: 'First Grade (RPSC) - Commerce School Lecturer',
+      title: 'Maths Online Test Series (For All Competitive Exams)',
       image:
       'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA8.png?alt=media&token=5a7a3416-1d4f-4442-84e9-0df1c59ae0b6',
       price: '25',
