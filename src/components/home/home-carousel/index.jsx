@@ -26,16 +26,11 @@ const HomeCarousel = () => {
     {
       id: 3,
       label: '',
-      img: '/assets/carousel/image3.png',
-    },  
+      img: '/assets/carousel/image3.png'},
     {
       id: 4,
       label: '',
       img: '/assets/carousel/image4.jpg',
-    },{
-      id: 5,
-      label: '',
-      img: '/assets/carousel/image5.jpg',
     },
   ];
 
