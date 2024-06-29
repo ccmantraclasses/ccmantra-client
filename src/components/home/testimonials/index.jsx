@@ -34,7 +34,7 @@ const Testimonials = () => {
     { id: 3, description: "A great platform to study with some excellent experience faculty", user: 'Deeksha Sharma' },
     { id: 4, description: "This is best Institute in Ajmer. Sir ki teaching teaching is good.", user: 'Mansi Goyal' },
     { id: 5, description: 'This is the first time I have attended a class in this format & wonderfull & effective it be.', user: 'Pratik Rajoriya' },
-    { id: 6, description: "It is perfect in all aspects.", user: 'Surbhi' },
+    
     
   ];
 
