@@ -22,16 +22,7 @@ const HomeCarousel = () => {
       id: 2,
       label: '',
       img: '/assets/carousel/image2.jpg',
-    },
-    {
-      id: 3,
-      label: '',
-      img: '/assets/carousel/image3.png'},
-    {
-      id: 4,
-      label: '',
-      img: '/assets/carousel/image4.jpg',
-    },
+    }
   ];
 
   const renderItems = carouselItems.map((i) => <CarouselItem imgSrc={i.img} />);
