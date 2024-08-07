@@ -38,7 +38,7 @@ const CourseCard = ({ title, image, price, link }) => (
       </Link>
 
       <Typography variant="subtitle1" mt={1}>
-        ₹ {price}
+         {price}
       </Typography>
     </Stack>
 
@@ -84,7 +84,7 @@ const CourseIndex = () => {
       title: 'Class XII(CBSE)-Economics(2024-25)',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FCC%20Mantra%20(1).png?alt=media&token=d86f1d82-38b7-406b-9dab-93daab81fd53',
-      price: '1500',
+      
       link: 'https://yuafj.courses.store/478114?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
     },
     {
