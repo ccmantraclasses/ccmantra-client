@@ -16,7 +16,7 @@ const HomeCarousel = () => {
     {
       id: 1,
       label: '',
-      img: '/assets/carousel/image1.jpg',
+      img: '/assets/carousel/Commerce.png',
     },
     {
       id: 2,
