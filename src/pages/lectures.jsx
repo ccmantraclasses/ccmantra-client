@@ -43,7 +43,7 @@ const LecturesIndex = () => {
       id: 3,
       label: 'First Grade commerce marathon classes',
       link: 'https://www.youtube.com/playlist?list=PLW_3FOJV-Kgobv4jyx7ds319za-VMDg2s',
-    }
+    },
   ];
   return (
     <>
