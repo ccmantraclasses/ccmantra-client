@@ -30,8 +30,8 @@ const LecturesIndex = () => {
   const lectures = [
     {
       id: 1,
-      label: 'commerce first grade ki taiyari kaise kare',
-      link: 'https://www.youtube.com/watch?v=m7bwe6Wlso0',
+      label: 'Introduction to Accounting',
+      link: 'https://www.youtube.com/embed/rXI53JMYEnU',
       autoplay: true,
     },
     {
