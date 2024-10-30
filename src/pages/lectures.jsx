@@ -30,19 +30,29 @@ const LecturesIndex = () => {
   const lectures = [
     {
       id: 1,
-      label: 'commerce first grade ki taiyari kaise kare',
-      link: 'https://youtu.be/m7bwe6Wlso0',
+      label: 'Introduction to Accounting',
+      link: 'https://www.youtube.com/embed/rXI53JMYEnU',
       autoplay: true,
     },
     {
       id: 2,
-      label: 'commerce first grade | first grade commerce | school lecturer commerce',
-      link: 'https://www.youtube.com/playlist?list=PLW_3FOJV-KgoS9lktgwad0Bdzn2YqWsR6',
+      label: 'Forms of Business Organisations',
+      link: 'https://www.youtube.com/embed/QsVBWJSzJS4',
     },
     {
       id: 3,
-      label: 'First Grade commerce marathon classes',
-      link: 'https://www.youtube.com/playlist?list=PLW_3FOJV-Kgobv4jyx7ds319za-VMDg2s',
+      label: 'राष्ट्रीय आय | National Income | संगणक',
+      link: 'https://www.youtube.com/embed/xI6qEpFmQyc',
+    },
+    {
+      id: 4,
+      label: 'अंकेक्षण का परिचय | Auditing',
+      link: 'https://www.youtube.com/embed/BG-u1CBZBU4',
+    },
+    {
+      id: 4,
+      label: 'National Income and Related Aggregates',
+      link: 'https://www.youtube.com/embed/GUJ5I3EHIf8',
     },
   ];
   return (
