@@ -59,7 +59,7 @@ const ExamCard = ({ primaryLabel, secondaryLabel, link }) => (
 
 const ExamCategories = () => {
   const examCategories = [
-    { id: 1, primaryLabel: 'RPSC', secondaryLabel: 'Teacher First Grade','Commerce', link: 'https://yuafj.courses.store/131449'},
+    { id: 1, primaryLabel: 'RPSC', secondaryLabel: 'Teacher First Grade Commerce', link: 'https://yuafj.courses.store/131449'},
     { id: 2, primaryLabel: 'Business Studies', link: 'https://yuafj.courses.store/478115?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp' },
     { id: 3, primaryLabel: 'Economics', link: 'https://yuafj.courses.store/478114?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp' },
     { id: 4, primaryLabel: 'Accounts', link: 'https://yuafj.courses.store/478111?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp' },
