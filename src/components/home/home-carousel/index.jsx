@@ -17,7 +17,6 @@ const HomeCarousel = () => {
       id: 1,
       label: '',
       img: '/assets/carousel/9.png',
-      link: 'https://yuafj.courses.store/131449'
     },
     {
       id: 2,
