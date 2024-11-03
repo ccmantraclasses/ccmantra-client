@@ -59,17 +59,17 @@ const ExamCard = ({ primaryLabel, secondaryLabel, link }) => (
 
 const ExamCategories = () => {
   const examCategories = [
-    { id: 1, primaryLabel: 'RPSC', secondaryLabel: 'Teacher First Grade Commerce', link: 'https://yuafj.courses.store/131449'},
-    { id: 2, primaryLabel: 'Business Studies', link: 'https://yuafj.courses.store/478115?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp' },
-    { id: 3, primaryLabel: 'Economics', link: 'https://yuafj.courses.store/478114?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp' },
-    { id: 4, primaryLabel: 'Accounts', link: 'https://yuafj.courses.store/478111?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp' },
+    { id: 1, primaryLabel: 'COMMERCE', secondaryLabel: 'First Grade (Hindi Medium)', link: 'https://yuafj.courses.store/131449'},
+    { id: 2, primaryLabel: 'COMMERCE', secondaryLabel: 'First Grade (English Medium)', link: 'https://yuafj.courses.store/588689?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp' },
+    { id: 3, primaryLabel: 'Economics', link: '' },
+    { id: 4, primaryLabel: 'Accounts', link: '' },
     { id: 5, primaryLabel: 'IAS', link: '' },
     { id: 6, primaryLabel: 'SSC', secondaryLabel: 'GD', link: '' },
     { id: 7, primaryLabel: 'SSC', secondaryLabel: 'CGL', link: '' },
     { id: 8, primaryLabel: 'SSC', secondaryLabel: 'CHSL', link: '' },
     { id: 9, primaryLabel: 'Railway', link: '' },
     { id: 10, primaryLabel: 'RAS', link: '' },
-    { id: 11, primaryLabel: 'Accounts+Eco.+B.s.', link: 'https://yuafj.courses.store/478117?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp' },
+    { id: 11, primaryLabel: 'Accounts+Eco.+B.s.', link: '' },
     { id: 12, primaryLabel: 'RPSC', secondaryLabel: 'Teacher Second Grade', link: '' },
     { id: 13, primaryLabel: 'RPSC', secondaryLabel: 'Teacher Third Grade', link: '' },
     { id: 14, primaryLabel: 'REET', link: '' },
