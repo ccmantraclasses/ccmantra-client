@@ -65,7 +65,7 @@ const CourseIndex = () => {
   const courses = [
     {
       id: 1,
-      title: 'First Grade (RPSC) - Commerce School Lecturer',
+      title: 'COMMERCE FIRST GRADE (HINDI MEDIUM)',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FFOR%20HINDI%20MEDIUM%20STUDENTS.png?alt=media&token=0ee5e85b-fc90-4662-a4c5-78a4bc682d69',
      
@@ -73,92 +73,100 @@ const CourseIndex = () => {
     },
     {
       id: 2,
+      title: 'COMMERCE FIRST GRADE (ENGLISH MEDIUM)',
+      image:
+        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FUntitled%20design.png?alt=media&token=687e958e-d4b0-41c8-9b3a-fe6344b638cf',
+     
+      link: 'https://yuafj.courses.store/588689?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
+    },
+    {
+      id: 3,
       title: 'Class XII(CBSE)-Business Studies(2024-25)',
       image:
         'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FCC%20Mantra.png?alt=media&token=90f802f0-c741-4ad8-851d-c3e945539cbe',
      
       link: 'https://yuafj.courses.store/478115?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
     },
-    {
-      id: 3,
-      title: 'Class XII(CBSE)-Economics(2024-25)',
-      image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FCC%20Mantra%20(1).png?alt=media&token=d86f1d82-38b7-406b-9dab-93daab81fd53',
+    // {
+    //   id: 3,
+    //   title: 'Class XII(CBSE)-Economics(2024-25)',
+    //   image:
+    //     'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FCC%20Mantra%20(1).png?alt=media&token=d86f1d82-38b7-406b-9dab-93daab81fd53',
       
-      link: 'https://yuafj.courses.store/478114?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
-    },
-    {
-      id: 4,
-      title: 'Class XII(CBSE)-Accounts(2024-25)',
-      image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FCC%20Mantra%20(2).png?alt=media&token=fa3ea8e7-dc72-439f-84d1-aaadca384263',
+    //   link: 'https://yuafj.courses.store/478114?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
+    // },
+    // {
+    //   id: 4,
+    //   title: 'Class XII(CBSE)-Accounts(2024-25)',
+    //   image:
+    //     'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FCC%20Mantra%20(2).png?alt=media&token=fa3ea8e7-dc72-439f-84d1-aaadca384263',
      
-      link: 'https://yuafj.courses.store/478111?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
-    },
-    {
-      id: 5,
-      title: 'Hindi Grammer Full Course (Online Test Series)',
-      image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA7.png?alt=media&token=b348b36c-64e6-47cb-9e70-e11f175a86da',
+    //   link: 'https://yuafj.courses.store/478111?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
+    // },
+    // {
+    //   id: 5,
+    //   title: 'Hindi Grammer Full Course (Online Test Series)',
+    //   image:
+    //     'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA7.png?alt=media&token=b348b36c-64e6-47cb-9e70-e11f175a86da',
      
-      link: 'https://yuafj.courses.store/429221?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
-    },
-    {
-      id: 6,
-      title: 'Maths Online Test Series (For All Competitive Exams)',
-      image:
-      'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA8.png?alt=media&token=5a7a3416-1d4f-4442-84e9-0df1c59ae0b6',
+    //   link: 'https://yuafj.courses.store/429221?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
+    // },
+    // {
+    //   id: 6,
+    //   title: 'Maths Online Test Series (For All Competitive Exams)',
+    //   image:
+    //   'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA8.png?alt=media&token=5a7a3416-1d4f-4442-84e9-0df1c59ae0b6',
      
-      link: 'https://yuafj.courses.store/476134?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
-    },
-    {
-      id: 7,
-      title: 'Class XII(CBSE)- Accounts+Eco.+B.s.(2024-25)',
-      image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2F%5BOriginal%20size%5D%20AADHUNIK%20EMPORIUM.png?alt=media&token=953f1238-8516-467b-823f-32da2737af85',
+    //   link: 'https://yuafj.courses.store/476134?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
+    // },
+    // {
+    //   id: 7,
+    //   title: 'Class XII(CBSE)- Accounts+Eco.+B.s.(2024-25)',
+    //   image:
+    //     'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2F%5BOriginal%20size%5D%20AADHUNIK%20EMPORIUM.png?alt=media&token=953f1238-8516-467b-823f-32da2737af85',
       
-      link: 'https://yuafj.courses.store/478117?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
-    },
-    {
-      id: 8,
-      title: 'Junior Accountant (Paper-2) (RSMSSB)',
-      image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA2.png?alt=media&token=204d94fe-6151-4daf-af62-889319f5975f',
+    //   link: 'https://yuafj.courses.store/478117?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
+    // },
+    // {
+    //   id: 8,
+    //   title: 'Junior Accountant (Paper-2) (RSMSSB)',
+    //   image:
+    //     'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA2.png?alt=media&token=204d94fe-6151-4daf-af62-889319f5975f',
       
-      link: 'https://yuafj.courses.store/398924',
-    },
-    {
-      id: 9,
-      title: 'Junior Accountant (RSMSSB) Online Test Series',
-      image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FDOWNLOAD%20NOW%20CC%20MANTRA.jpg?alt=media&token=a143f0b6-affa-4915-8a97-85c8db724fec',
+    //   link: 'https://yuafj.courses.store/398924',
+    // },
+    // {
+    //   id: 9,
+    //   title: 'Junior Accountant (RSMSSB) Online Test Series',
+    //   image:
+    //     'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FDOWNLOAD%20NOW%20CC%20MANTRA.jpg?alt=media&token=a143f0b6-affa-4915-8a97-85c8db724fec',
      
-      link: 'https://yuafj.courses.store/365904',
-    },
-    {
-      id: 10,
-      title: 'Rajasthan G.K. Online Test Series',
-      image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA4.png?alt=media&token=b3491995-34e6-4feb-913f-e6ccc43571c1',
+    //   link: 'https://yuafj.courses.store/365904',
+    // },
+    // {
+    //   id: 10,
+    //   title: 'Rajasthan G.K. Online Test Series',
+    //   image:
+    //     'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA4.png?alt=media&token=b3491995-34e6-4feb-913f-e6ccc43571c1',
      
-      link: 'https://yuafj.courses.store/364525',
-    },
-    {
-      id: 11,
-      title: 'English Grammer Online Test Series',
-      image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA5.png?alt=media&token=f7f5dea4-a686-4909-bb55-d45ef262503a',
+    //   link: 'https://yuafj.courses.store/364525',
+    // },
+    // {
+    //   id: 11,
+    //   title: 'English Grammer Online Test Series',
+    //   image:
+    //     'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA5.png?alt=media&token=f7f5dea4-a686-4909-bb55-d45ef262503a',
      
-      link: 'https://yuafj.courses.store/353312',
-    },
-    {
-      id: 12,
-      title: 'Macro Economics & Indian Economic Development',
-      image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA6.png?alt=media&token=a05ccd9e-2de5-4fed-af34-3c0b61d57e83',
+    //   link: 'https://yuafj.courses.store/353312',
+    // },
+    // {
+    //   id: 12,
+    //   title: 'Macro Economics & Indian Economic Development',
+    //   image:
+    //     'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA6.png?alt=media&token=a05ccd9e-2de5-4fed-af34-3c0b61d57e83',
      
-      link: 'https://yuafj.courses.store/85902',
-    },
+    //   link: 'https://yuafj.courses.store/85902',
+    // },
   ];
   return (
     <>
