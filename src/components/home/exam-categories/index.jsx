@@ -61,8 +61,8 @@ const ExamCategories = () => {
   const examCategories = [
     { id: 1, primaryLabel: 'COMMERCE', secondaryLabel: 'First Grade (Hindi Medium)', link: 'https://yuafj.courses.store/131449'},
     { id: 2, primaryLabel: 'COMMERCE', secondaryLabel: 'First Grade (English Medium)', link: 'https://yuafj.courses.store/588689?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp' },
-    { id: 3, primaryLabel: 'Economics', link: '' },
-    { id: 4, primaryLabel: 'Accounts', link: '' },
+    { id: 3, primaryLabel: 'COMMERCE', secondaryLabel: 'First Grade- Test Series(English Medium)', link: 'https://yuafj.courses.store/589005?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp' },
+    { id: 4,  primaryLabel: 'COMMERCE', secondaryLabel: 'First Grade- Test Series(Hindi Medium)', link: 'https://yuafj.courses.store/589003?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp' },
     { id: 5, primaryLabel: 'IAS', link: '' },
     { id: 6, primaryLabel: 'SSC', secondaryLabel: 'GD', link: '' },
     { id: 7, primaryLabel: 'SSC', secondaryLabel: 'CGL', link: '' },
