@@ -81,11 +81,18 @@ const CourseIndex = () => {
     },
     {
       id: 3,
-      title: 'Class XII(CBSE)-Business Studies(2024-25)',
+      title: 'COMMERCE FIRST GRADE - TEST SERIES(HINDI MEDIUM)',
       image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FCC%20Mantra.png?alt=media&token=90f802f0-c741-4ad8-851d-c3e945539cbe',
+        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FTEST%20SERIES%20HINDI.png?alt=media&token=3788d01c-f4af-492c-b786-f022920f7f30',
      
-      link: 'https://yuafj.courses.store/478115?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
+      link: 'https://yuafj.courses.store/589003?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
+    },{
+      id: 4,
+      title: 'COMMERCE FIRST GRADE - TEST SERIES(ENGLISH MEDIUM)',
+      image:
+        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FTEST%20SERIES%20ENGLISH.png?alt=media&token=70e5aa7f-4ff1-4090-bafa-0833b7853b4d',
+     
+      link: 'https://yuafj.courses.store/589005?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp',
     },
     // {
     //   id: 3,
