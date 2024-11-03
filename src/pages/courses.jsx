@@ -67,7 +67,7 @@ const CourseIndex = () => {
       id: 1,
       title: 'First Grade (RPSC) - Commerce School Lecturer',
       image:
-        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FA1.png?alt=media&token=6a810aef-f1c0-4f5c-b296-df8ab93df803',
+        'https://firebasestorage.googleapis.com/v0/b/ccmantra-c6ad2.appspot.com/o/courses%2FFOR%20HINDI%20MEDIUM%20STUDENTS.png?alt=media&token=0ee5e85b-fc90-4662-a4c5-78a4bc682d69',
      
       link: 'https://yuafj.courses.store/131449',
     },
